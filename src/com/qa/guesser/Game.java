@@ -32,7 +32,7 @@ public class Game {
 			System.out.printf("Ran out of lives! This took %d tries, better luck next time.", tries);
 		}
 		
-		
+		sc.close();
 	}
 
 }
